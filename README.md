@@ -18,24 +18,24 @@ I currently work with startups as a freelancer and/or contract frontend/full-sta
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Leaflet](https://img.shields.io/badge/-Leaflet-05122A?style=flat&logo=leaflet)&nbsp;
-**Backend:**
+<br>**Backend:**
 ![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-**Programming:**
+<br>**Programming:**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=unity)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-**Databases:**
+<br>**Databases:**
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-**Tools:**
+<br>**Tools:**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)&nbsp;
@@ -47,16 +47,20 @@ I currently work with startups as a freelancer and/or contract frontend/full-sta
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=attanavaid&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Atta Navaid Github Stats" width="420"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attanavaid&layout=compact&theme=dark&hide_border=true" alt="Atta Navaid Top Languages" width="420"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/attanavaid">
+    <span style="display:inline-block;">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=attanavaid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+        alt="Atta Navaid GitHub Stats"/>
+    </span>
+    <span style="display:inline-block;">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=attanavaid&layout=compact&langs_count=8&theme=dark"
+        alt="Atta Navaid Top Languages"/>
+    </span>
+  </a>
+</p>
 
 ---
 
