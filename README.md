@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Atta 👋
 
-<!--
-**attanavaid/attanavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on building production-ready web applications with React, TypeScript, and modern frontend tooling.
 
-Here are some ideas to get you started:
+I’ve worked on a startup educational platform as a contract full-stack developer and build independent projects used by real users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Work On
+- Frontend and full-stack web applications
+- Content-driven platforms and dashboards
+- SEO-conscious, performance-focused UIs
+- Personal and freelance projects shipped to production
+
+---
+
+### 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Vercel, Netlify
+
+---
+
+### 📌 Featured Projects
+- **COVID-19 County Dashboard** – Interactive data visualization dashboard  
+- More projects on my [portfolio](https://attanavaid.github.io/me)
+
+---
+
+### 🔗 Links
+- 🌐 Portfolio: https://attanavaid.github.io/me
+- 💼 LinkedIn: (add link later)
